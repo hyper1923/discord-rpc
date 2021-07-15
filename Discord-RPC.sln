@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Discord-RPC", "Discord-RPC\Discord-RPC.vcxproj", "{3509181A-DF08-4E50-BD43-DFE068DAE976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Debug|x64.ActiveCfg = Debug|x64
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Debug|x64.Build.0 = Debug|x64
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Debug|x86.ActiveCfg = Debug|Win32
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Debug|x86.Build.0 = Debug|Win32
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Release|x64.ActiveCfg = Release|x64
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Release|x64.Build.0 = Release|x64
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Release|x86.ActiveCfg = Release|Win32
+		{3509181A-DF08-4E50-BD43-DFE068DAE976}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F443A28-B358-4421-B5A5-B39C61B7CEB2}
+	EndGlobalSection
+EndGlobal
