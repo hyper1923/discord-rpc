@@ -14,7 +14,7 @@ bool Discord::SetInfo(const char* applicationID) {
 bool Discord::Deploy(const char* state,const char* details,int timeStamp, int endTimeStamp) {
 	DiscordRichPresence discordPresence;
 	memset(&discordPresence, 0, sizeof(discordPresence));
-	discordPresence.smallImageKey = "pornhub";
+	discordPresence.smallImageKey = "key";
 	discordPresence.state = state;
 	discordPresence.details = details;
 	discordPresence.startTimestamp = timeStamp;
